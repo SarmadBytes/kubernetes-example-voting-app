@@ -9,4 +9,5 @@ if you face issue regarding worker image pull issue, just pull image manually.
 
 docker pull dockersamples/examplevotingapp_workers
 
+If you face any issue just ping me on Likendin: https://www.linkedin.com/in/gotosarmadahsan/
 
