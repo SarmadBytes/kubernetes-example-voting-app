@@ -1,7 +1,12 @@
-# example-voting-app-kubernetes-v2
+# Updated Example Voting App For Kubernetes
 
-This is based on the original [example-voting-app](https://github.com/dockersamples/example-voting-app) from docker-examples(https://github.com/dockersamples)
+I modified this config to work on local kuberrnetes cluster. Just deploy it and access on following Urls.
 
-modified to work on Kubernetes
+Voting Page: http://localhost:32480
+Result Page: http://localhost:31002
+
+if you face issue regarding worker image pull issue, just pull image manually.
+
+docker pull dockersamples/examplevotingapp_workers
 
 
