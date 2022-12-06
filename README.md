@@ -1,4 +1,4 @@
-# Updated Example Voting App For Kubernetes
+# Updated Example Voting App For Local Kubernetes Cluster
 
 I modified this config to work on local kuberrnetes cluster. Just deploy it and access on following Urls.
 
